@@ -2,7 +2,8 @@
 Thumbs.db*
 .DS_Store*
 HELP.md
-dist
+# dist
+.npmrc
 doc
 
 # Logs
